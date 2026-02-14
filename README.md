@@ -29,7 +29,8 @@
 
 #### 🛠 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,idea" />
+  
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman,idea" />
 </p>
 
 #### 🗄 Databases
