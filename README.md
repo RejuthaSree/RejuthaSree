@@ -23,7 +23,8 @@
 
 #### 💻 Programming & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,spring,springboot" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring" />
+  <img src="https://skillicons.dev/icons?i=springboot" />
 </p>
 
 #### 🛠 Tools & Platforms
@@ -37,15 +38,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats (Dark Theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RejuthaSree&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ### 🔥 GitHub Streak
 
 <p align="center">
