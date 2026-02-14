@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rejutha Sree M</h1>
-<h3 align="center">Backend Developer | Java | Spring Boot | JWT | Docker</h3>
+<h3 align="center">Backend Developer | Java | Spring Boot |  Docker | DSA</h3>
 
 ---
 
 ### 👩‍💻 About Me
 - Backend Developer passionate about building scalable and secure applications.
-- Strong focus on **Java, Spring Boot, REST APIs, and database design**.
-- Skilled in implementing **authentication and security using JWT**.
 - Experienced in containerization using **Docker**.
 - Selected in **Internal Hackathon for Smart India Hackathon (SIH) 2025**.
-- Consistently practicing Data Structures and Algorithms on **GeeksforGeeks**.
+- practicing Data Structures and Algorithms on *<a href="https://www.geeksforgeeks.org/profile/reju6qcba" target="_blank"></a>*.
 - Currently improving backend architecture, performance, and system design skills.
 
 ---
@@ -18,7 +16,7 @@
 
 #### 💻 Programming & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,spring" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,springboot" />
 </p>
 
 #### 🛠 Tools & Platforms
@@ -57,24 +55,8 @@
 
 ---
 
-### 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 💡 Coding Practice
-- Regular problem solving on GeeksforGeeks  
-👉 https://www.geeksforgeeks.org/profile/reju6qcba
-
----
-
 ### 🌐 Connect With Me
-📧 Email: reju64141@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/rejuthasree21/
 
 ---
 
-⭐ Always learning, building, and improving backend systems.
