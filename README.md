@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rejutha Sree M</h1>
-<h3 align="center">Backend Developer | Java | Spring Boot |  Docker | DSA</h3>
+<h3 align="center">Backend Developer | Java | Spring Boot | Docker | DSA</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rejuthasree21/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ---
 
@@ -7,7 +13,8 @@
 - Backend Developer passionate about building scalable and secure applications.
 - Experienced in containerization using **Docker**.
 - Selected in **Internal Hackathon for Smart India Hackathon (SIH) 2025**.
-- practicing Data Structures and Algorithms on *<a href="https://www.geeksforgeeks.org/profile/reju6qcba" target="_blank"></a>*.
+- Practicing Data Structures and Algorithms on 
+  <a href="https://www.geeksforgeeks.org/profile/reju6qcba" target="_blank">GeeksforGeeks</a>.
 - Currently improving backend architecture, performance, and system design skills.
 
 ---
@@ -34,7 +41,7 @@
 ### 📊 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RejuthaSree&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -42,7 +49,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=RejuthaSree&theme=tokyonight" />
 </p>
 
 ---
@@ -50,13 +57,8 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RejuthaSree&theme=tokyo-night" />
 </p>
-
----
-
-### 🌐 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/rejuthasree21/
 
 ---
 
