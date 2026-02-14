@@ -24,7 +24,7 @@
 #### 💻 Programming & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,spring" />
-  <img src="https://skillicons.dev/icons?i=springboot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48"/>
 </p>
 
 #### 🛠 Tools & Platforms
