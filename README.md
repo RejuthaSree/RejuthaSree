@@ -73,13 +73,9 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-<a href="(https://www.linkedin.com/in/rejuthasree21/)" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/rejuthasree21/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" alt="LinkedIn"/>
 </a>
-</p>
-
-<p align="center">
-  <i>Building backend systems and learning payment gateways and something new every day. 🚀</i>
 </p>
 
 
