@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-**PostgreSQL • MySQL • SQL**
+**PostgreSQL • MySQL **
 
 #### 🐳 DevOps & Tools
 
@@ -47,13 +47,6 @@
 
 **Docker • Git • GitHub • Linux • Postman**
 
-#### 🤖 AI & Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
-</p>
-
-**Python • Pandas • Scikit-learn • Machine Learning • Spring AI**
 
 #### 🌐 Frontend
 
@@ -71,9 +64,6 @@
 **[RouteWise](https://github.com/RejuthaSree/RouteWise)**
 
 
-📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RejuthaSree&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejuthaSree&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -83,7 +73,7 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rejutha-sree-m/" target="_blank">
+<a href="(https://www.linkedin.com/in/rejuthasree21/)" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" alt="LinkedIn"/>
 </a>
 </p>
