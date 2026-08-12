@@ -6,9 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=RejuthaSree&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  Building backend applications with Java & Spring Boot
-</p>
 
 ---
 
@@ -37,16 +34,13 @@
 ### 🚀 Featured Project(ongoing)
 
 **[ResearchIQ](https://github.com/RejuthaSree/RESEARCHIQ)**
+
 **[RouteWise](https://github.com/RejuthaSree/RouteWise)**
 
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RejuthaSree&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RejuthaSree&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RejuthaSree&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejuthaSree&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
 ### 📈 Contribution Graph
 
 <p align="center">
