@@ -1,17 +1,17 @@
-<!-- ==================== HEADER ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Rejutha%20Sree&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Building%20Real-World%20Projects&descAlignY=62&descSize=18" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101935,100:00B8D4&height=250&section=header&text=REJUTHA%20SREE&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Building%20Things%20That%20Work&descAlignY=60&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Building+Real-World+Applications;Solving+Problems+with+DSA;Exploring+System+Design+%26+AI+Agents" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Backend+Developer+%F0%9F%9A%80;Building+Real-World+Applications;Grinding+DSA+%F0%9F%A7%A0;Exploring+AI+Agents+%F0%9F%A4%96;System+Design+Loading...+%E2%8F%B3" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rejuthasree21/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:reju64141@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/RejuthaSree">
     <img src="https://img.shields.io/badge/GitHub-RejuthaSree-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -19,209 +19,133 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RejuthaSree&style=for-the-badge&color=26d0ce&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=RejuthaSree&style=flat-square&color=00B8D4&label=PROFILE+VIEWS"/>
 </p>
 
----
+<br/>
 
-## 👋 about me
+<!-- ==================== ABOUT ==================== -->
 
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2l0N3l6OG04ZzE4dW40ZTRpY2N4c3NhMjVvNmNneXpwYjgyZnNyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif"/>
+## 🧑‍💻 `whoami`
 
-```yaml
-reju@github
-────────────────────────────────
-Role        : Backend Developer
-Location    : India 🇮🇳
-Focus       : Building real-world applications
-Current     : DSA · AI Agents
-Next        : System Design
-Backend     : Spring Boot · REST APIs
-Security    : JWT · OAuth2
-Databases   : PostgreSQL · MySQL · MongoDB
-Goal        : Build scalable production-ready systems
+<img align="right" width="260" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Chrome Dino Game"/>
+
+```bash
+$ whoami
+
+> Rejutha Sree
+> Backend & full stack Developer
+> Building real-world applications
+
+
+$ mission
+
+Build useful products.
+Solve real problems.
+Keep learning.
 ```
-
-> Turning ideas into projects,
-> and projects into something useful. 🚀
 
 <br clear="right"/>
 
 ---
 
-## ⚡ currently working on
-
-🏙️ **CivicConnect** — building a platform focused on solving real-world civic problems.
-
-🔬 **RouteWise** — developing a all rounder Travel friendly site
-
-🧠 **DSA** — improving problem-solving skills and consistency.
-
-🤖 **AI Agents** — exploring agentic AI and intelligent workflows.
-
-🏗️ **System Design** — next on my learning roadmap.
-
----
-
-## 🛠️ the toolbox
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,postgres,mysql,mongodb,git,github,docker,maven,idea,postman&perline=10"/>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,linux&perline=10"/>
-
-</p>
-
-<p align="center">
-
-<code>Spring Boot</code> • <code>REST APIs</code> • <code>JWT</code> • <code>OAuth2</code> • <code>Razorpay</code> • <code>Docker</code>
-
-</p>
-
----
-
-# 🚀 things I've built
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
+## ⚙️ currently building
 
 ### 🏙️ CivicConnect
 
-A platform designed to connect citizens with civic authorities and help people report civic problems.
+> Connecting citizens with civic authorities to make reporting and managing civic problems easier.
 
-**⚙️ Tech Stack**
+`Spring Boot` • `PostgreSQL` • `JWT` • `REST APIs` • `OAuth2` • `Razorpay`
 
-`Spring Boot` `PostgreSQL` `JWT`
+**Status:** 🟢 Actively building
 
-`REST APIs` `OAuth2` `Razorpay`
+---
 
-<br/>
+### 🗺️ RouteWise
 
-🚧 **Actively building & improving**
+> An all-round travel-friendly platform designed to make trip planning, organization and travel management easier.
 
-</td>
+`Spring Boot` • `PostgreSQL` • `REST APIs`
 
-<td width="50%" valign="top">
+**Status:** 🟢 Building
+
+---
 
 ### 🔬 ResearchIQ
 
-A research-focused web application designed to help users explore and organize information efficiently.
+> A research-focused platform designed to help users explore and organize information efficiently.
 
-**⚙️ Tech Stack**
+`HTML` • `CSS` • `JavaScript` • `Java` • `Spring Boot` • `Docker` • `JWT`
 
-`HTML` `CSS` `JavaScript` `Java` `SpringBoot` `Docker` `JWT`
+**Status:** 🟢 Improving
 
-<br/>
+---
 
-🚀 **Building & improving**
+## 🛠️ tech stack
 
-</td>
+<p align="center">
 
-</tr>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,docker,git,github,maven,idea&perline=10"/>
 
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,linux,vscode,postman&perline=10"/>
+
+</p>
+
+<p align="center">
+
+<code>REST APIs</code> • <code>JWT</code> • <code>OAuth2</code> • <code>Razorpay</code> • <code>Spring Security</code>
+
+</p>
+
+---
+
+## 🧠 currently learning
+
+<table>
 <tr>
+<td width="33%" align="center">
 
-<td width="50%" valign="top">
+### 🧩 DSA
 
-### 💻 Java Projects
-
-A collection of projects focused on improving programming fundamentals and backend development skills.
-
-**Focus**
-
-`Problem Solving`
-
-`Backend Development`
-
-`File Handling`
+Solving problems and improving algorithmic thinking.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🚀 More Coming Soon
+### 🤖 AI Agents
 
-Continuously building projects and learning new technologies.
+Exploring agentic workflows and intelligent systems.
 
-**Currently exploring**
-
-`AI Agents`
-
-`System Design`
-
-`Scalable Systems`
+**Focus:**
+Agent workflows • Tools • Automation
 
 </td>
 
+<td width="33%" align="center">
+
+### 🏗️ System Design
+
+The next step in my journey.
+
+
+</td>
 </tr>
-
 </table>
 
----
-
-## 📚 learning journey
-
-```text
-🧠 Data Structures & Algorithms
-
-🤖 AI Agents
-│
-└── Exploring agentic workflows
-
-
-🏗️ System Design
-│
-└── Coming soon...
-```
-
----
-
-## 🎯 what I want to build
-
-```text
-🏗️  Scalable backend systems Deployed!
-🔐  Secure authentication systems
-🤖  AI agent-powered applications
-🌍  Projects that solve real-world problems
-🚀  Production-ready applications
-```
-
----
-
-## 🔥 current focus
-
-<p align="center">
-
-🧠 <b>DSA</b>
-  •  
-🤖 <b>AI Agents</b>
-  •  
-🏗️ <b>System Design</b>
-  •  
-🚀 <b>Building Projects</b>
-
-</p>
 
 ---
 
 <p align="center">
 
+### `while(alive) { learn(); build(); improve(); }`
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,50:1a2980,100:0b1120&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D4,50:101935,100:050816&height=140&section=footer" width="100%"/>
 
-
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,50:1a2980,100:0b1120&height=120&section=footer" width="100%"/>
 
 
 
