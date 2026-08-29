@@ -147,22 +147,6 @@ A research-focused platform designed to help users explore and organize informat
 
 <p align="center">
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RejuthaSree&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Rejutha Sree's GitHub Stats"
-  />
-
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejuthaSree&layout=compact&theme=tokyonight&hide_border=true"
- height="165"
- alt="Top Languages"
-/>
-
-</p>
 
 <p align="center">
   <img 
