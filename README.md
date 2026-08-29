@@ -143,17 +143,6 @@ A research-focused platform designed to help users explore and organize informat
 </p>
 
 ---
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RejuthaSree&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RejuthaSree&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejuthaSree&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
 
 <p align="center">
 
