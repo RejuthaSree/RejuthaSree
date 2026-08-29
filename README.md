@@ -143,17 +143,7 @@ A research-focused platform designed to help users explore and organize informat
 
 </p>
 
----
 
-<p align="center">
-
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=RejuthaSree&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
 
 
 ### `while(alive) { learn(); build(); improve(); }`
