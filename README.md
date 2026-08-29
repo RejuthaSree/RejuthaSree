@@ -1,8 +1,8 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101935,100:00B8D4&height=240&section=header&text=REJUTHA%20SREE&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101935,100:00B8D4&height=240&section=header&text=Rejutha%20Sree&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Backend+Developer+%F0%9F%9A%80;Building+Real-World+Applications;Grinding+DSA+%F0%9F%A7%A0;Exploring+AI+Agents+%F0%9F%A4%96;System+Design+Loading...+%E2%8F%B3" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Backend+Developer;Building+Real-World+Applications;Grinding+DSA+%F0%9F%A7%A0;Exploring+AI+Agents+%F0%9F%A4%96;System+Design+Loading...+%E2%8F%B3" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -68,6 +68,7 @@ A platform designed to connect citizens with civic authorities and make reportin
 `REST APIs`
 `OAuth2`
 `Razorpay`
+`Docker`
 
 <br/>
 
@@ -146,21 +147,28 @@ A research-focused platform designed to help users explore and organize informat
 
 <p align="center">
 
-###   GitHub Stats 📊
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RejuthaSree&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejuthaSree&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=RejuthaSree&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejuthaSree&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RejuthaSree&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=RejuthaSree&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RejuthaSree&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6"/>
-</p>
-
 
 ### `while(alive) { learn(); build(); improve(); }`
 
