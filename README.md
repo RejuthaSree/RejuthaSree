@@ -1,6 +1,5 @@
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101935,100:00B8D4&height=250&section=header&text=REJUTHA%20SREE&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Building%20Things%20That%20Work&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101935,100:00B8D4&height=240&section=header&text=REJUTHA%20SREE&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Backend+Developer+%F0%9F%9A%80;Building+Real-World+Applications;Grinding+DSA+%F0%9F%A7%A0;Exploring+AI+Agents+%F0%9F%A4%96;System+Design+Loading...+%E2%8F%B3" alt="Typing SVG"/>
@@ -28,7 +27,7 @@
 
 ## 🧑‍💻 `whoami`
 
-<img align="right" width="260" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Chrome Dino Game"/>
+<img align="right" width="260" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding GIF"/>
 
 ```bash
 $ whoami
@@ -36,7 +35,6 @@ $ whoami
 > Rejutha Sree
 > Backend & full stack Developer
 > Building real-world applications
-
 
 $ mission
 
@@ -49,35 +47,80 @@ Keep learning.
 
 ---
 
-## ⚙️ currently building
+## 🚀 currently building
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
 
 ### 🏙️ CivicConnect
 
-> Connecting citizens with civic authorities to make reporting and managing civic problems easier.
+A platform designed to connect citizens with civic authorities and make reporting civic problems easier.
 
-`Spring Boot` • `PostgreSQL` • `JWT` • `REST APIs` • `OAuth2` • `Razorpay`
+<br/>
 
-**Status:** 🟢 Actively building
+**⚙️ Tech**
 
----
+`Spring Boot`
+`PostgreSQL`
+`JWT`
+`REST APIs`
+`OAuth2`
+`Razorpay`
+
+<br/>
+
+🟢 **Actively Building**
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🗺️ RouteWise
 
-> An all-round travel-friendly platform designed to make trip planning, organization and travel management easier.
+An all-round travel-friendly platform designed to make trip planning and travel management easier.
 
-`Spring Boot` • `PostgreSQL` • `REST APIs`
+<br/>
 
-**Status:** 🟢 Building
+**⚙️ Tech**
 
----
+`Spring Boot`
+`PostgreSQL`
+`REST APIs`
+
+<br/>
+
+🟢 **Building**
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🔬 ResearchIQ
 
-> A research-focused platform designed to help users explore and organize information efficiently.
+A research-focused platform designed to help users explore and organize information efficiently.
 
-`HTML` • `CSS` • `JavaScript` • `Java` • `Spring Boot` • `Docker` • `JWT`
+<br/>
 
-**Status:** 🟢 Improving
+**⚙️ Tech**
+
+`HTML`
+`CSS`
+`JavaScript`
+`Java`
+`Spring Boot`
+`Docker`
+`JWT`
+
+<br/>
+
+🟢 **Improving**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -95,46 +138,22 @@ Keep learning.
 
 <p align="center">
 
-<code>REST APIs</code> • <code>JWT</code> • <code>OAuth2</code> • <code>Razorpay</code> • <code>Spring Security</code>
+<code>REST APIs</code>   •   <code>JWT</code>   •   <code>OAuth2</code>   •   <code>Razorpay</code>   •   <code>Spring Security</code>
 
 </p>
 
 ---
 
-## 🧠 currently learning
+## 📊 GitHub activity
 
-<table>
-<tr>
-<td width="33%" align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RejuthaSree&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=RejuthaSree&theme=tokyonight&hide_border=true"/>
+</p>
 
-### 🧩 DSA
-
-Solving problems and improving algorithmic thinking.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🤖 AI Agents
-
-Exploring agentic workflows and intelligent systems.
-
-**Focus:**
-Agent workflows • Tools • Automation
-
-</td>
-
-<td width="33%" align="center">
-
-### 🏗️ System Design
-
-The next step in my journey.
-
-
-</td>
-</tr>
-</table>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RejuthaSree&theme=tokyo-night&hide_border=true&area=true&custom_title=Rejutha%20Sree's%20GitHub%20Activity"/>
+</p>
 
 ---
 
@@ -145,7 +164,5 @@ The next step in my journey.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D4,50:101935,100:050816&height=140&section=footer" width="100%"/>
-
-
 
 
